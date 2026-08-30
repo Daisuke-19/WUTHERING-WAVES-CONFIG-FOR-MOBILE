@@ -3,6 +3,7 @@ Wuthering waves config for your device
 -------------------------
 *NOTE* 
 -this is a fork of Daisuke19's wuwa config
+
 -i updated the very low end config to support version 3.x
 -------------------------
 
